@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Oleg Khasevich](https://up.htmlacademy.ru/adaptive/29/user/2288783).
-* Наставник:[Anton Varnauski](https://htmlacademy.ru/profile/id223468).
+* Наставник: `Неизвестно`.
 
 ---
 
